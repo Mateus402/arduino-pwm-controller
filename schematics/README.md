@@ -19,7 +19,7 @@ Neste projeto, é utilizado o conceito de Modulação por Largura de Pulso (PWM)
 - Resistor
 
 ## Esquemático
-![Esquemático do PWM Controller](schematics/pwm_controller_schematic.pdf)
+[Esquemático do PWM Controller](https://github.com/Mateus402/arduino-pwm-controller/files/15396776/Doc1.pdf)
 
 
 ## Código-fonte
